@@ -1,4 +1,4 @@
-## Start-up classification modelStart-up classification model
+## Start-up classification model
 
 I developed a machine learning application aimed at predicting the success of startups using a binary classification approach. The model was trained on a comprehensive dataset from Crunchbase, which can be viewed here: https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase/data. This dataset underwent thorough data cleaning, exploratory data analysis (EDA), and feature engineering to optimize the inputs for model training.
 
