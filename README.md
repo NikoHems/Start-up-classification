@@ -45,13 +45,9 @@ I explored and deployed seven different models to ensure robustness and reliabil
 - XGBoost
 - Neural Network (developed using PyTorch)
 
-### Best Model
-
-Among the models tested, the best-performing model (XGBoost) achieved an impressive F1 score of 86%, indicating a high level of accuracy in predicting startup success.
-
 ### Outcome
 
-With an F1 score of around 85%, the model is good at predicting the defined startup success.
+Among the models tested, the best-performing model (XGBoost) achieved an impressive F1 score of 86%, indicating a high level of accuracy in predicting startup success.
 
 ### Deployment
 
@@ -59,8 +55,4 @@ The final deployment of the model was done through a Streamlit app, providing a 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can copy and paste the above content directly into your README.md file on GitHub.
+This project is licensed under the MIT License.
