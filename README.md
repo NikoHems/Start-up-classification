@@ -1,6 +1,6 @@
 # Startup Success Prediction
 
-This repository contains a machine learning application aimed at predicting the success of startups using a binary classification approach. I also wrote a quick blog post about it. Find it [here](https://medium.com/@niko.hems/can-you-predict-start-up-success-9a40258449ea)
+This repository contains a machine learning application aimed at predicting the success of startups using a binary classification approach.
 
 ## Repository Structure
 
@@ -31,7 +31,7 @@ I developed a machine learning application aimed at predicting the success of st
 
 ### Why Did I Do This Project?
 
-I wanted to find out whether or not it is possible to somehow predict Start-up success rates. 
+I wanted to find out whether or not it is possible to somehow predict Start-up success rates. If you are interested find out more in my quick [blog post](https://medium.com/@niko.hems/can-you-predict-start-up-success-9a40258449ea) about it.
 
 ### Models
 
