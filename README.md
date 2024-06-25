@@ -31,7 +31,7 @@ I developed a machine learning application aimed at predicting the success of st
 
 ### Why Did I Do This Project?
 
-Venture capitalists often have a hard time selecting successful startups. They often search long on Crunchbase. To help them, I thought of building a classification model that helps select successful startups.
+I wanted to find out whether or not it is possible to somehow predict Start-up success rates. 
 
 ### Models
 
@@ -47,7 +47,14 @@ I explored and deployed seven different models to ensure robustness and reliabil
 
 ### Outcome
 
-Among the models tested, the best-performing model (XGBoost) achieved an impressive F1 score of 86%, indicating a high level of accuracy in predicting startup success.
+Among the models tested, the best-performing model (XGBoost) achieved an impressive F1 score of 86%, indicating a high level of accuracy in predicting startup success. 
+
+### Limitations
+
+While the F1 score shows high potential of the model there are some limitations to this:
+- There are only few features with high predictive power.
+- It´s quite difficult to define whether a Start-up is successful or not, there is no common sense here.
+- There are way more factors influencing success rate than we have in our dataset.
 
 ### Deployment
 
